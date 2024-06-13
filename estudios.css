@@ -5,8 +5,8 @@
   color: azure;
 }
 .container-estudios {
-  width: 100%;
-  padding: 2rem;
+  width: 80%;
+  padding: 10%;
   margin-top: 5rem;
   line-height: 2.5rem;
   font-size: large;
@@ -19,8 +19,8 @@
     margin: 0rem;
   }
   .estudios {
-    width: 100%;
-    padding: 1rem;
+    width: 90%;
+    padding: 5%;
     margin-top: 1rem;
     font-size: small;
   }
@@ -38,7 +38,7 @@
   .container-estudios-section {
     display: flex;
     align-items: center;
-    width: 100%;
+    width: 90%;
     gap: 2rem;
   }
 }

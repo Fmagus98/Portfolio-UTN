@@ -19,8 +19,8 @@
 
 @media (max-width: 767px) {
   .container-sobremi {
-    width: 100%;
-    padding: 1rem;
+    width: 90%;
+    padding: 5%;
     margin-top: 1rem;
     line-height: 2rem;
     font-size: small;
@@ -30,8 +30,8 @@
 
 @media (min-width: 768px) and (max-width: 1023px) {
   .container-sobremi {
-    width: 100%;
-    padding: 1rem;
+    width: 90%;
+    padding: 5%;
     margin-top: 2rem;
     line-height: 2rem;
     font-size: medium;
