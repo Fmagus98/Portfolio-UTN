@@ -28,11 +28,19 @@
 
 @media (min-width: 768px) and (max-width: 1023px) {
   .experiencia {
-    width: 75%;
+    width: 100%;
   }
 }
 @media (min-width: 1024px) {
+  .titulo {
+    justify-content: flex-start;
+  }
+  .navigation {
+    gap: 3rem;
+    justify-content: flex-end;
+    margin: 0 3rem;
+  }
   .experiencia {
-    width: 75%;
+    width: 100%;
   }
 }

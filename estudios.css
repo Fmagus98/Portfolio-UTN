@@ -5,8 +5,8 @@
   color: azure;
 }
 .container-estudios {
-  width: 80%;
-  padding: 10%;
+  width: 100%;
+  padding: 2rem;
   margin-top: 5rem;
   line-height: 2.5rem;
   font-size: large;
@@ -39,6 +39,19 @@
     display: flex;
     align-items: center;
     width: 90%;
+    gap: 2rem;
+  }
+}
+
+/* Escritorio (Pantallas anchas, 1024px y superiores) */
+@media (min-width: 1024px) {
+  .estudios {
+    width: 100%;
+  }
+  .container-estudios-section {
+    display: flex;
+    align-items: center;
+    width: 100%;
     gap: 2rem;
   }
 }
