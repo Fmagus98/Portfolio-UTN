@@ -2,7 +2,7 @@
   --body-bg-color: rgb(43, 43, 70);
   --text-color: white;
   --colorh1-color: rgb(215, 211, 211);
-  --fondo-proyectos: rgb(60,43,70);
+  --fondo-proyectos: rgb(60, 43, 70);
 }
 
 h1 {
@@ -30,7 +30,7 @@ body {
 .boton {
   padding: 0.5rem 0.5rem;
   background-color: #dda0432f;
-  color: rgb(94, 91, 91);
+  color: rgb(215, 211, 211);
   border: none;
   border-radius: 5px;
   cursor: pointer;

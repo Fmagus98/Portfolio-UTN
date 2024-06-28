@@ -1,5 +1,5 @@
 .contacto {
-  margin-top: 5rem;
+  margin-top: 2rem;
   padding: 1rem;
   background-color: var(--fondo-contacto);
   text-align: center;
@@ -11,6 +11,7 @@
 }
 
 iframe {
+  margin-bottom: 2rem;
   border: none;
   width: 85vw;
   height: 20rem;
